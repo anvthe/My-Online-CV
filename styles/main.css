@@ -7249,7 +7249,7 @@ Created using IcoMoon - icomoon.io
 /* Footer */
 /* Social button style */
 .cc-facebook:hover i {
-  color: #3b5998;
+  color: #4267B2;
 }
 
 .cc-twitter:hover i {
@@ -7261,7 +7261,15 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-instagram:hover i {
-  color: #405de6;
+  color: #e1306c;
+}
+
+.cc-github:hover i {
+  color: #24292e;
+}
+
+.cc-linkedin:hover i {
+  color: #0077B5;
 }
 
 /* Credit Style */
